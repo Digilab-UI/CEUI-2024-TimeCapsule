@@ -7,10 +7,11 @@ int main() {
 
     printf("========================================================================================\n");
 
-    printf("Author: CH\n");
-    printf("Hi Guys! I hope this message finds you well. So, where are you now? Have you traveled somewhere exciting or made some new friends?\n");
-    printf("By now, I hope you'e learned a lot, and maybe even surprised yourself with how much you've accomplished.\nWhen you look back, just remember that you've worked hard to get here, so don't forget to give yourself credit!\n");
-    printf("I'm waiting for what's next, and I know you'll do great things. Good luck!\n");
+    printf("Author: NC\n");
+    printf("Hello friends, have you been well? well I hope you are! You all are amazing each with wonderful talents\n");
+    printf("By now, I hope that life is great and your talents are recognized, I do hope that 100\% of tekkom all graduate\n");
+    printf("But realistically that might not be feasible, but still I have hope. well I hope when I see this message in X years \n");
+    printf("I have stayed true to my expectations and not deviate from my expectations thats it for me Peace :)\n");
 
     printf("========================================================================================\n");
 

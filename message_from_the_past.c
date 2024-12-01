@@ -13,6 +13,16 @@ int main() {
     printf("I'm waiting for what's next, and I know you'll do great things. Good luck!\n");
 
     printf("========================================================================================\n");
+    
+    printf("For digilab assistants, thank you for these past months! I learned a lot and thank you for candies in the lab, next request makanan lain :P");
+
+    printf("\nAuthor: Nayla Pramesti Adhina\n");
+    printf("Hello Nayla, thank you and congratulations! I hope this message finds you when you are on top.\n");
+    printf("\nPast Nayla would never dream to be able to be in your position now. Study abroad? Five years ago, that was just a pipe dream. I love that you didn't actually stop dream big,");
+    printf("and yet still worked hard even when you are not sure of your own future. Thank you for every hardwork you did, and please never feel small whenever you walk slower than other people.");
+    printf(" Because I'm sure we'll find our own pace for it. Be patience. So, where are we now? We made new friends and trying new things that you never heard of?\n");
+    printf("\nRemember to always be kind and happy whenever and wherever you are. Stay humble and be a good person, see you Nayla!");
 
     return 0;
 }
+

@@ -13,6 +13,6 @@ int main() {
     printf("I'm waiting for what's next, and I know you'll do great things. Good luck!\n");
 
     printf("========================================================================================\n");
-
+    printf("Thank you so much for all this time, i couldn't ask something more from you guys. You guys are the best lab assistant anyone can ask for.")
     return 0;
 }

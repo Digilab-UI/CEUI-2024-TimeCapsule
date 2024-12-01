@@ -7,10 +7,11 @@ int main() {
 
     printf("========================================================================================\n");
 
-    printf("Author: CH\n");
-    printf("Hi Guys! I hope this message finds you well. So, where are you now? Have you traveled somewhere exciting or made some new friends?\n");
-    printf("By now, I hope you'e learned a lot, and maybe even surprised yourself with how much you've accomplished.\nWhen you look back, just remember that you've worked hard to get here, so don't forget to give yourself credit!\n");
-    printf("I'm waiting for what's next, and I know you'll do great things. Good luck!\n");
+    printf("Author: Derryl Liandryo Putra\n");
+    printf("I'm writing to you from a moment in time filled with ambition, growth, and a deep curiosity about where life might lead us.\n");
+    printf("I'm also working hard to stay open-minded and make space for creativity in everything I do.\n");
+    printf("For the future, my hopes are simple yet profound: I hope you've continued to explore the world with that same curiosity and excitement.\n");
+    printf("If you're ever feeling stuck or unsure, look back on this moment. Remember the person who wrote this to you, full of dreams and faith in your ability to make them happen.\n");
 
     printf("========================================================================================\n");
 

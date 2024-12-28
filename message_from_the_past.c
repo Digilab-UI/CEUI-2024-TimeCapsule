@@ -97,6 +97,13 @@ int main() {
 
     printf("\nPrayers and best wishes for you all \n-N");
 
+  	printf("hello future me");
+	printf("so today is the first semester");
+	printf("i am now graduating, cannot believe its already the end for college");
+	printf("shoutout to my aslab and my friends for supporting me throught the semester and i enjoy every moment we had from teamwork, studying together and etc.");
+	printf("so my goal for the future to become rich for sure :) , and of course after college work at a big company, i think thats all for my goal to become financial freedom ");
+	printf("and i hope every single person in tekkom 24 become succesfull");
 
     return 0;
 }
+	

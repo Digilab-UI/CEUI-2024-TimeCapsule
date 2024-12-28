@@ -62,6 +62,11 @@ int main() {
 
     printf("I'm waiting for what's next, and I know you'll do great things. Good luck!\n");
 
+    printf("Author: Hanif Mulia Nugroho\n");
+    printf("Hi everyone! I hope this message is conveyed well. So how is it? Have you achieved any dreams or have you changed your dreams to something bigger.\n");
+    printf("Hopefully now I have learned a lot, be it soft skills or hard skills.\nI hope I'm done with myself so that I can develop myself to be better and be useful to my family, friends and society.\n");
+    printf("I'm sure you can do all the good things, continue to be successful, good luck!\n");
+  
     printf("Author: AbednegoSamosir\n"); \
         printf("To all my friends in TEKKOM KKI UI, how are you doing? hopefully you are doing well, are you satisfied with were you are right now? \nIf so I'm happy for you. If you are not, don't worry, great things are waiting for you ahead.\n");
     printf("I wish all my TEKKOM KKI UI friends the best of luck\n");
